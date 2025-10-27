@@ -1,0 +1,30 @@
+{
+  "name": "resume-writer-app",
+  "version": "1.0.0",
+  "description": "A web application that generates tailored resumes based on job postings.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "dev": "vite --port 3000",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "typescript": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^5.1.0",
+    "vite": "^7.1.12"
+  },
+  "keywords": [
+    "resume",
+    "job",
+    "application",
+    "react",
+    "typescript"
+  ],
+  "author": "Evan Yohans"
+}
