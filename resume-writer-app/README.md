@@ -1,5 +1,4 @@
 # Resume Writer App
-
 This project is a Resume Writer application built with React and TypeScript. It allows users to generate tailored resumes based on job postings, input their job history, customize job descriptions, and export the final resume in PDF or DOC format.
 
 ## Features
